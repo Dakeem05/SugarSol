@@ -26,7 +26,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:image',
-          content: '/assets/images/dog.jpg'
+          content: '/dog.jpg'
         }
       ],
       link: [
