@@ -7,31 +7,31 @@
       </p>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto">
         <a
-          href="#"
+          href="https://t.me/SugarSolPortal"
           class="flex flex-col items-center p-6 bg-sugar-300/30 rounded-2xl hover:bg-sugar-400/30 transition-all duration-300 backdrop-blur-sm"
         >
-          <img src="/" alt="Telegram" class="w-12 h-12 mb-4" />
+          <img src="/assets/images/telegram.svg" alt="Telegram" class="w-12 h-12 mb-4" />
           <span class="font-bold">Telegram</span>
         </a>
         <a
-          href="#"
-          class="flex flex-col items-center p-6 bg-sugar-300/30 rounded-2xl hover:bg-sugar-400/30 transition-all duration-300 backdrop-blur-sm"
+          href="https://x.com/Sugar_pup_sol"
+          class="flex flex-col items-center p-6 bg-sugar-300/30 rounded-2xl hover:bg-sugar-400/30  transition-all duration-300 backdrop-blur-sm"
         >
-          <img src="/" alt="Twitter" class="w-12 h-12 mb-4" />
+          <img src="/assets/images/twitter.svg" alt="Twitter" class="w-12 h-12 mb-4 rounded-full" />
           <span class="font-bold">Twitter</span>
         </a>
         <a
           href="#"
           class="flex flex-col items-center p-6 bg-sugar-300/30 rounded-2xl hover:bg-sugar-400/30 transition-all duration-300 backdrop-blur-sm"
         >
-          <img src="/" alt="Discord" class="w-12 h-12 mb-4" />
+          <img src="/assets/images/discord.svg" alt="Discord" class="w-12 h-12 mb-4" />
           <span class="font-bold">Discord</span>
         </a>
         <a
           href="#"
           class="flex flex-col items-center p-6 bg-sugar-300/30 rounded-2xl hover:bg-sugar-400/30 transition-all duration-300 backdrop-blur-sm"
         >
-          <img src="/" alt="Medium" class="w-12 h-12 mb-4" />
+          <img src="/assets/images/medium.svg" alt="Medium" class="w-12 h-12 mb-4" />
           <span class="font-bold">Medium</span>
         </a>
       </div>

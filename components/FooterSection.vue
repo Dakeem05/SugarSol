@@ -3,7 +3,10 @@
     <div class="max-w-6xl mx-auto">
       <div class="flex flex-col md:flex-row justify-between items-center">
         <div class="mb-8 md:mb-0">
-          <h3 class="text-2xl font-bold mb-2">🐕 SugarDog</h3>
+          <div class="flex items-center gap-2 mb-2">
+              <img src="/assets/images/dog-removebg.png" alt="SugarDog Logo" class="h-8 w-8 object-contain" />
+              <span class="text-2xl font-bold">SugarDog</span>
+          </div>
           <p class="text-white/90">The Sweetest Memecoin on Solana</p>
         </div>
         <div class="flex space-x-8">
