@@ -13,7 +13,21 @@ export default defineNuxtConfig({
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'SugarDog is the sweetest memecoin on the Solana blockchain. Join our community and be part of the next big thing in crypto!' }
+        {
+          name: 'description',
+          content: 'Join the sweetest community on Solana with SugarDog - the memecoin that brings joy to DeFi.'
+        },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://sugardog.vercel.app' },
+        { property: 'og:title', content: 'SugarDog - The Sweetest Memecoin on Solana' },
+        { 
+          property: 'og:description', 
+          content: 'Join the sweetest community on Solana with SugarDog - the memecoin that brings joy to DeFi.'
+        },
+        {
+          property: 'og:image',
+          content: '/assets/images/dog.jpg'
+        }
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
